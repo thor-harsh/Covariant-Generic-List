@@ -1,7 +1,7 @@
 # Project--Covariant-Generic-List
 
 <table>
-
+  
 **In this project we will make a Complete Covariant Generic List from Scratch in Scala. It's gonna be amazing and you will learn how we can leverage the power of Scala.** <br></br>
 
 **Before jumping to the code lets understand what Covariance,Generic means. What does actually Scala means first**?<br></br>
