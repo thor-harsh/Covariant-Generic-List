@@ -4,7 +4,7 @@
 
 **In this project we will make a Complete Covariant Generic List from Scratch in Scala. It's gonna be amazing and you will learn how we can leverage the power of Scala.** <br></br>
 
-**Before jumping to the code lets understand what does Covariance,Generic means. What does actually Scala means first**?<br></br>
+**Before jumping to the code lets understand what Covariance,Generic means. What does actually Scala means first**?<br></br>
 
 **What is Scala**?<br></br>
 Scala is a strong statically typed high-level general-purpose programming language that supports both object-oriented programming and functional programming. Designed to be concise, many of Scala's design decisions are intended to address criticisms of Java.<br></br>
