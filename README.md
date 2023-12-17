@@ -4,7 +4,7 @@
 
 **In this project we will make a Complete Covariant Generic List from Scratch in Scala. It's gonna be amazing and you will learn how we can leverage the power of Scala.** <br></br>
 
-**Before jumping to the code lets what does Covariance and Generic Meaning first**?<br></br>
+**Before jumping to the code lets understand what does Covariance and Generic means first**?<br></br>
 
 
 **What does Covariance means**?<br></br>
